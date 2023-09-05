@@ -1,3 +1,7 @@
+# Möglicher Zeitplan für die Szenarien
+
+![Möglicher Zeitplan für die Szenarien](/assets/szenarien_solawi.png)
+
 # Szenario 1: Netzwerk Solidarische Landwirtschaft organisiert das Projekt
 
 ### 1.1: Inhalte des Projektes definieren
