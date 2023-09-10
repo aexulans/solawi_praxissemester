@@ -1,6 +1,10 @@
 # Möglicher Zeitplan für die Szenarien
 
 ![Möglicher Zeitplan für die Szenarien](/assets/szenarien_solawi.png)
+Legende
+- Grün: Zeitraum, in denen Mitarbeiter:innen von SoLaWis überdurchschnittlich viele zeitl. Kapazitäten haben
+- Rot: Zeitraum, in dem wir empfehlen bestimmte Maßnahmen durchzuführen
+- Hellrot: Zeitraum, in dem nach Durchführung einer Maßnahme noch Aufgaben von geringem zeitl. Umfang zu erwarten sind, etwa regelmäßige Termine oder Pflege von Website/Materialien
 
 # Szenario 1: Netzwerk Solidarische Landwirtschaft organisiert das Projekt
 
